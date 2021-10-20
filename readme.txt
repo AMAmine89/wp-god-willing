@@ -1,4 +1,4 @@
-=== Ma Teyahch ===
+=== God Willing ===
 Contributors: Miminou
 Tags: إن شاء الله,، الأذان,الصلاة, القرآن, مواقيت الصلاة, الحديث النبوي, quran, quraan, hadith, salat, essalat, adhan, salat times, pray, prayer, prayers, prayer time, prayers time
 Tested up to: 5.8
